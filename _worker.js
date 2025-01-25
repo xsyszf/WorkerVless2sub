@@ -41,7 +41,7 @@ let MamaJustKilledAMan = ['telegram', 'twitter', 'miaoko'];
 let proxyIPPool = [];
 let socks5Data;
 let alpn = 'h3';
-let 网络备案 = `原创CMLiu大佬<a href='https://t.me/xskjvip'>❤本站维护❤🤠潇洒科技🤠</a>`;//写你自己的维护者广告
+let 网络备案 = `⚛原创CM大佬⚛<a href='https://t.me/xskjvip'>❤本站维护❤🤠潇洒科技🤠</a>`;//写你自己的维护者广告
 let 额外ID = '0';
 let 加密方式 = 'auto';
 let 网站图标, 网站头像, 网站背景;
